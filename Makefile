@@ -11,4 +11,4 @@ bin/cliente: obj/cliente.o
 obj/cliente.o: src/cliente.c
 	gcc -Wall -g -c src/cliente.c -o obj/cliente.o
 clean:
-	rm obj/* tmp/* bin/{cliente,servidor}
+	@ rm obj/* bin/cliente bin/servidor
