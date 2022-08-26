@@ -35,10 +35,15 @@ O servidor deve ser executado primeiro com o seguinte formato.
 Para executar os pedidos utiliza-se o comando com os formatos: 
  
  `./cliente status` : para saber o estado do servidor.
+ 
  `./cliente proc-file input output transf1 transf2 ...` : para executar   transformações no ficheiro input.
+ 
  Um exemplo de uma execução de transformações é:
+ 
  `./cliente proc-file ../input.txt output nop bcompress nop encrypt gcompress`
+ 
  E para retornar o ficheiro de output à sua forma original faz-se as operações contrárias:
+ 
  ```./cliente proc-file output output2 gdecompress decrypt nop bdecompress nop```
  
 ---------------
