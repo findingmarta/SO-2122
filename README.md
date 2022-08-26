@@ -40,4 +40,5 @@ Para executar os pedidos utiliza-se o comando com os formatos:
  `./cliente proc-file ../input.txt output nop bcompress nop encrypt gcompress`
  E para retornar o ficheiro de output à sua forma original faz-se as operações contrárias:
  ```./cliente proc-file output output2 gdecompress decrypt nop bdecompress nop```
+ 
 ---------------
