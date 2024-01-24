@@ -1,4 +1,4 @@
-# SO_2022
+# SO-2122
 
 No âmbito da cadeira de Sistemas Operativos, implementou-se um programa em C que torna possível o armazenamento segura e eficiente de cópias de ficheiros.
 
@@ -47,3 +47,5 @@ Para executar os pedidos utiliza-se o comando com os formatos:
  ```./cliente proc-file output output2 gdecompress decrypt nop bdecompress nop```
  
 ---------------
+
+Nota Final: 16.00
