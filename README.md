@@ -48,4 +48,11 @@ Para executar os pedidos utiliza-se o comando com os formatos:
  
 ---------------
 
+## Grupo
+| Número  | Nome                                               |
+| ------- | -------------------------------------------------- |
+| A96584  | [Joana Branco](https://github.com/joanabranco)     |
+| A97158  | [Marta Sá](https://github.com/findingmarta)        |
+| A97588  | [Joana Pereira](https://github.com/JoanaP02)       |
+
 Nota Final: 16.00
